@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1473435783 source:e:\hashcache\main.cpp
+	<iostream>
+	"hashCache.h"
+
+1473700157 e:\hashcache\hashcache.h
+	<string>
+	<vector>
+	"hashFunction.h"
+	"caching.h"
+
+1473700173 e:\hashcache\hashfunction.h
+	<string>
+	<sstream>
+	"hashTable.h"
+
+1473433725 e:\hashcache\caching.h
+	"node.h"
+
+1473411127 e:\hashcache\node.h
+	<ctime>
+	<string>
+
